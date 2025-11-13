@@ -53,14 +53,14 @@ export default function App() {
   // --- フードメニュー ---
   const foodMenu = {
     スイーツ: [
-      { name: 'チョコスコーン', price: 350, img: '/images/chocoscone.png' },
-      { name: 'バタービスケットサンド', price: 320, img: '/images/butterbiscuit.png' },
-      { name: 'チーズケーキ', price: 420, img: '/images/cheesecake.png' },
+      { name: '低糖質チーズケーキ', price: 480, img: '/images/cheesecake.png' },
+      { name: 'ドーナツ', price: 280, img: '/images/donut.png' },
+      { name: 'チョコスコーン', price: 310, img: '/images/scones.png' },
     ],
     軽食: [
-      { name: 'ハムチーズサンド', price: 480, img: '/images/hamcheese.png' },
-      { name: 'クロワッサン', price: 280, img: '/images/croissant.png' },
-      { name: 'ベーグル', price: 300, img: '/images/bagel.png' },
+      { name: 'サラダラップ', price: 460, img: '/images/saladwrap.png' },
+      { name: 'BLTチーズバーガー', price: 590, img: '/images/hamburger.png' },
+      { name: 'ほうれん草とベーコンのキッシュ', price: 480, img: '/images/quiche.png' },
     ],
   };
 
